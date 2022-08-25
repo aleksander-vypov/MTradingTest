@@ -1,0 +1,24 @@
+::-webkit-scrollbar {
+  width: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto';
+}
+
+p {
+  margin: 0px;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Prompt', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 82px;
+}
